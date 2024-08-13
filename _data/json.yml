@@ -1,10 +1,7 @@
 - key: Name
   value: 呂丹冊工
-- key: Description
-  value:
-    - Gami like origami
-    - Nouns 13 and 189 ⌐◨-◨
-    - Stay at home chad
+- key: AKA
+  value: Gami, like origami ⌐◨-◨
 - key: Socials
   value:
     - value: Farcaster
@@ -37,3 +34,5 @@
       url: https://pod.link/1475404980/episode/27f78698090a2ad1bc0d6e75f6d4572b
     - value: Decoding the Intersection of Skating and DAOs on Mint
       url: https://pod.link/1575762146/episode/cc4f52ff77ff2e3c9f0c6b2018141377
+- key: Mog
+  value: 🫵😹
