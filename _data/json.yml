@@ -1,7 +1,10 @@
 - key: Name
   value: 呂丹冊工
-- key: AKA
-  value: Gami, like origami
+- key: Bio
+  value:
+    - Gami, like origami
+    - Nouns 13 and 189 ⌐◨-◨
+    - Stay-at-home chad
 - key: Socials
   value:
     - value: Farcaster
@@ -24,14 +27,13 @@
       url: https://sendit.city
 - key: Conversations
   value:
-    - value: UFO (solo)
+    - value: UFO
       url: https://pod.link/1647366883/episode/5bce72ce2e0abce2e321438901fb2b00
     - value: Web3 Galaxy Brain
       url: https://pod.link/1601791381/episode/db055258617d1b182f4518103c98a8e5
-    - value: UFO (with LGHT)
+    - value: UFO with LGHT
       url: https://pod.link/1647366883/episode/3c8eed96ba6d7eeeb0784eaedfb7af52
     - value: Defire
       url: https://pod.link/1475404980/episode/27f78698090a2ad1bc0d6e75f6d4572b
     - value: Mint
       url: https://pod.link/1575762146/episode/cc4f52ff77ff2e3c9f0c6b2018141377
-- key: ⌐◨-◨
