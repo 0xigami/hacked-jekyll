@@ -3,8 +3,8 @@
 - key: Bio
   value:
     - Gami, like origami
-    - Nouns 13 and 189 ⌐◨-◨
-    - Stay-at-home chad
+    - Positive-sum propaganda
+    - Pirates ship
   typed: true
 - key: Socials
   value:
@@ -16,16 +16,14 @@
       url: https://zora.co/@gami
 - key: Projects
   value:
-    - value: IMF
-      url: https://internationalmeme.fund
     - value: Gnars
       url: https://gnars.wtf
+    - value: Pirate
+      url: https://pirate.quest
     - value: Raffles
       url: https://omega.ceo
-    - value: Member
-      url: https://member.clinic
-    - value: Sendit
-      url: https://sendit.city
+    - value: IMF
+      url: https://internationalmeme.fund 
 - key: Conversations
   value:
     - value: UFO
