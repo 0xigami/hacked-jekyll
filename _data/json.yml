@@ -4,7 +4,9 @@
   value:
     - Gami, like origami
     - Positive-sum propaganda
+    - Make money onchain
     - Pirates ship
+    - Hyperpunk
   typed: true
 - key: Socials
   value:
@@ -18,12 +20,10 @@
   value:
     - value: Gnars
       url: https://gnars.wtf
-    - value: Pirate
-      url: https://pirate.quest
-    - value: Raffles
+    - value: Raffle
       url: https://omega.ceo
-    - value: IMF
-      url: https://internationalmeme.fund 
+    - value: Money
+      url: https://money.vote 
 - key: Conversations
   value:
     - value: UFO
