@@ -4,9 +4,7 @@
   value:
     - Gami, like origami
     - Positive-sum propaganda
-    - Stay-at-home-chad
-    - Pirates ship
-    - Hyperpunk
+    - Cults make culture
   typed: true
 - key: Socials
   value:
@@ -18,12 +16,12 @@
       url: https://zora.co/@gami
 - key: Projects
   value:
-    - value: Gnars
-      url: https://gnars.wtf
-    - value: Raffle
+    - value: Gnars.com
+      url: https://gnars.com
+    - value: Raffle.diy
       url: https://raffle.diy
-    - value: Money
-      url: https://money.vote 
+    - value: IMF.bz
+      url: https://imf.bz
 - key: Conversations
   value:
     - value: UFO
@@ -32,6 +30,8 @@
       url: https://pod.link/1601791381/episode/db055258617d1b182f4518103c98a8e5
     - value: Independent Reserve
       url: https://www.youtube.com/watch?v=00yTP0UUpfQ
+    - value: UFO with Clouted
+      url: https://pod.link/1647366883/episode/0376db4afac14e5e448497c674126086
     - value: UFO with LGHT
       url: https://pod.link/1647366883/episode/3c8eed96ba6d7eeeb0784eaedfb7af52
     - value: Defire
