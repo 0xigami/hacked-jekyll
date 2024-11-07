@@ -16,12 +16,15 @@
       url: https://zora.co/@gami
 - key: Projects
   value:
-    - value: Gnars.com
-      url: https://gnars.com
-    - value: Raffle.diy
-      url: https://raffle.diy
-    - value: IMF.bz
+    - value: IMF
       url: https://imf.bz
+    - value: squash club
+      url: https://squash.gay
+    - value: gnars dao
+      url: https://gnars.com
+    - value: raffle
+      url: https://raffle.diy
+    
 - key: Conversations
   value:
     - value: UFO
