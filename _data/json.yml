@@ -18,11 +18,13 @@
   value:
     - value: IMF
       url: https://imf.bz
-    - value: squash club
+    - value: Noun 13
+      url: https://app.virtuals.io/virtuals/4264
+    - value: Squash Club
       url: https://squash.gay
-    - value: gnars dao
+    - value: Gnars DAO
       url: https://gnars.com
-    - value: raffle
+    - value: Raffle
       url: https://raffle.diy
     
 - key: Conversations
