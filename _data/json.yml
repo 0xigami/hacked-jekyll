@@ -16,16 +16,12 @@
       url: https://zora.co/@gami
 - key: Projects
   value:
-    - value: IMF
+    - value: IMF.BZ
       url: https://imf.bz
-    - value: Noun 13
-      url: https://app.virtuals.io/virtuals/4264
-    - value: Squash Club
-      url: https://squash.gay
     - value: Gnars DAO
       url: https://gnars.com
-    - value: Raffle
-      url: https://raffle.diy
+    - value: Noun 13
+      url: https://app.virtuals.io/virtuals/4264
     
 - key: Conversations
   value:
