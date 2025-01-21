@@ -1,5 +1,5 @@
 - key: Name
-  value: gami
+  value: 呂丹冊工
 - key: Bio
   value:
     - Gami, like origami
@@ -16,12 +16,12 @@
       url: https://zora.co/@gami
 - key: Projects
   value:
-    - value: IMF.BZ
+    - value: bank the unbankable - imf
       url: https://imf.bz
-    - value: Gnars DAO
-      url: https://gnars.com
-    - value: Noun 13
+    - value: ai proliteration - noun 13
       url: https://app.virtuals.io/virtuals/4264
+    - value: shred the gnar - gnars
+      url: https://gnars.com
     
 - key: Conversations
   value:
