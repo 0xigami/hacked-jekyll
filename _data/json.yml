@@ -1,10 +1,10 @@
 - key: Name
   value: gami.eth
-- key: Bio
+- key: Things
   value:
-    - Chief Autonomist
-    - Positive-sum propaganda
-    - Cults make culture
+    - Practice autonomism
+    - Make money onchain
+    - Do creative shit
   typed: true
 - key: Socials
   value:
@@ -23,7 +23,7 @@
     - value: shred the gnar - gnars
       url: https://gnars.com
     
-- key: Conversations
+- key: Convos
   value:
     - value: UFO
       url: https://pod.link/1647366883/episode/5bce72ce2e0abce2e321438901fb2b00
