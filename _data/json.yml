@@ -2,9 +2,9 @@
   value: gami.eth
 - key: Things
   value:
-    - Practice autonomism
-    - Make money onchain
-    - Do creative shit
+    - Autonomist
+    - Cartel creditor
+    - Risktard
   typed: true
 - key: Socials
   value:
@@ -16,11 +16,9 @@
       url: https://zora.co/@gami
 - key: Projects
   value:
-    - value: bank the unbankable - imf
+    - value: the credit cartel - imf
       url: https://imf.bz
-    - value: ai proliteration - noun 13
-      url: https://app.virtuals.io/virtuals/4264
-    - value: shred the gnar - gnars
+    - value: action sports onchain - gnars
       url: https://gnars.com
     
 - key: Convos
